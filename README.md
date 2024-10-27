@@ -1,1 +1,1 @@
-# Practice-Android-Studio
+# Практические работы по изучению Android Studio
