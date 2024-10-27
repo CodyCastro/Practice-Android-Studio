@@ -6,3 +6,4 @@
 3. Intent. Переход между активностями </br>
    3.1 Работа с git
 4. AppBeer
+5. CheckBox
