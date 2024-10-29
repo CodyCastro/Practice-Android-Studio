@@ -6,5 +6,7 @@
 3. Intent. Переход между активностями </br>
    3.1 Работа с git
 4. AppBeer
-5. CheckBox
+5. CheckBox </br>
+   5.2 WebView
 6. Приложение "Секундомер"
+7. ListView
